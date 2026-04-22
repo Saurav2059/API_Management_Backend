@@ -32,8 +32,8 @@ Ensure you have **Docker** and **Docker Compose** installed.
 ### Steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/harshapeshave641/APIMG-backend.git
-   cd APIMG-backend
+   git clone https://github.com/Saurav2059/API_Management_Backend.git
+   cd API_Management_Backend
    ```
 
 2. Create a `.env` file in the root directory with the following variables:
